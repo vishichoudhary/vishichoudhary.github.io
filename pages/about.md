@@ -2,13 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "assets/img/pexels/about.png"
 tags: [About, Test]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Hi, I am `Vishal Choudhary`, a Computer Science Student at NITH.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Currently i m third year student. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I love to code, listen music, i am a folk song lover. 
+
+I like to spend time on my pc doing stuff related to either python, linux or related to some automating scripting.
+
+This is my blog, Hope you like this :-)
  
