@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl: "/portfolio"
-url: "https://sylhare.github.io"
+url: "https://vishichoudhary.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
+  title: Portfolio
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -20,18 +20,18 @@ theme_settings:
 
   # Icons
   rss: true
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: vishal129.vk@gmail.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "vishichoudhary"
   google_plus:
   instagram:
   keybase:
-  linkedin:  # Full URL
+  linkedin:  "https://www.linkedin.com/in/vishal-choudhary-547a98141/"
   pinterest:
   reddit:
   soundcloud:
