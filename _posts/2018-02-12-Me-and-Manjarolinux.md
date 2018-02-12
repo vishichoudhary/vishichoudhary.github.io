@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Me And Manjaro Linux
-feature-img: "assets/img/pexels/manjaro.png"
+feature-img: "assets/img/pexels/manjaro1.png"
 thumbnail: "assets/img/thumbnails/manjaro.png"
 tags: [Linux]
 ---
