@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+feature-img: "assets/img/resume.png"
 tags: [resume, bio]
 ---
 # Vishal Choudhary
@@ -49,11 +50,11 @@ tags: [resume, bio]
 
 ## Links
 
-- Github: vishichoudhary
+- Github: vishichoudhary [link](https://gihub.com/vishichoudhary)
 
-- Linkedin: vishal choudhary
+- Linkedin: vishal choudhary [link](https://www.linkedin.com/in/vishal-choudhary-547a98141/)
 
-- Codechef: vishichoudhary
+- Codechef: vishichoudhary [link](https://www.codechef.com/users/vishichoudhary)
 
 ## Extra Curricular
 
@@ -160,3 +161,5 @@ A group of active people promoting open-source softwares and Linux• Volunteere
 • Organized a linux-installation fest
 
 • Conducted a command line workshop
+
+
