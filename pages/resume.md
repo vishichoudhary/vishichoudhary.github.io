@@ -5,7 +5,7 @@ permalink: /resume/
 feature-img: "assets/img/resume.png"
 tags: [resume, bio]
 ---
-<embed src="assets/pdfs/final_cv.pdf" width="800px" height="2100px" />
+<embed src="https://drive.google.com/open?id=1zoeLXe_aUI_jJdUTN6lkgYVXH8zS1TPg" width="800px" height="2100px" />
 
 # Vishal Choudhary
 
