@@ -53,28 +53,6 @@ tags: [resume, bio]
 
 - Codechef: [vishichoudhary](https://www.codechef.com/users/vishichoudhary)
 
-## Extra Curricular
-
-- Problem Setter and Tester
-
-- Organised Programming Contests
-
-- Conducted Linux Workshop
-
-- Volunteered in SFD
-
-- Organised Gaming Contest
-
-- Volunteered for Udbhava
-
-## Interest And Hobbies
-
-- Algorithms and Data Structures
-
-- Listening-music
-
-- Watching And playing Cricket
-
 ## ACHIEVEMENTS
 
 • All India rank 26th and 72th Global in codechef october challenge 2017
@@ -158,3 +136,25 @@ A group of active people promoting open-source softwares and Linux• Volunteere
 • Organized a linux-installation fest
 
 • Conducted a command line workshop
+
+## Extra Curricular
+
+- Problem Setter and Tester
+
+- Organised Programming Contests
+
+- Conducted Linux Workshop
+
+- Volunteered in SFD
+
+- Organised Gaming Contest
+
+- Volunteered for Udbhava
+
+## Interest And Hobbies
+
+- Algorithms and Data Structures
+
+- Listening-music
+
+- Watching And playing Cricket
