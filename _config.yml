@@ -8,7 +8,7 @@ theme_settings:
   title: Home
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar: vishal129.vk@gmail.com
   description: "A website for portfolio purpose" # used by search engines
 
   # Header and footer text
