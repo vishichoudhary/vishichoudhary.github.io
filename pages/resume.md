@@ -2,10 +2,8 @@
 layout: page
 title: Resume
 permalink: /resume/
-feature-img: "assets/img/resume.png"
 tags: [resume, bio]
 ---
-<iframe src='https://1drv.ms/b/s!AtHQDfI17-DmgUTm2i7Y8ptWKU8D&action=embedview' width='379px' height='252px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
 # Vishal Choudhary
 
 ## contact
@@ -162,10 +160,3 @@ A group of active people promoting open-source softwares and Linux• Volunteere
 • Organized a linux-installation fest
 
 • Conducted a command line workshop
-
-[link](https://github.com/vishichoudhary/vishichoudhary.github.io/blob/master/assets/pdfs/final_cv.pdf)
-<object data="https://drive.google.com/open?id=1zoeLXe_aUI_jJdUTN6lkgYVXH8zS1TPg" height="700px">
-    <embed src="https://drive.google.com/open?id=1zoeLXe_aUI_jJdUTN6lkgYVXH8zS1TPg">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/open?id=1zoeLXe_aUI_jJdUTN6lkgYVXH8zS1TPg">Download PDF</a>.</p>
-    </embed>
-</object>
