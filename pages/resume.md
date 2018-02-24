@@ -6,6 +6,7 @@ feature-img: "assets/img/resume.png"
 tags: [resume, bio]
 ---
 <embed src="assets/pdfs/final_cv.pdf" width="800px" height="2100px" />
+
 # Vishal Choudhary
 
 ## contact
@@ -164,8 +165,8 @@ A group of active people promoting open-source softwares and Linux• Volunteere
 • Conducted a command line workshop
 
 [link](https://github.com/vishichoudhary/vishichoudhary.github.io/blob/master/assets/pdfs/final_cv.pdf)
-<object data="assets/pdfs/final_cv.pdf" width="700px" height="700px">
-    <embed src="assets/pdfs/final_cv.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdfs/final_cv.pdf">Download PDF</a>.</p>
+<object data="https://drive.google.com/open?id=1zoeLXe_aUI_jJdUTN6lkgYVXH8zS1TPg" height="700px">
+    <embed src="https://drive.google.com/open?id=1zoeLXe_aUI_jJdUTN6lkgYVXH8zS1TPg">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/open?id=1zoeLXe_aUI_jJdUTN6lkgYVXH8zS1TPg">Download PDF</a>.</p>
     </embed>
 </object>
