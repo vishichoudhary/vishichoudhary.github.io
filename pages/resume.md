@@ -131,7 +131,9 @@ Exe is a departmental team for technical fest of NIT-H
 
 ### GLUG-NITH
 
-A group of active people promoting open-source softwares and Linux• Volunteered in Software Freedom Day
+A group of active people promoting open-source softwares and Linux
+
+• Volunteered in Software Freedom Day
 
 • Organized a linux-installation fest
 
