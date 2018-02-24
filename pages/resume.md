@@ -5,8 +5,7 @@ permalink: /resume/
 feature-img: "assets/img/resume.png"
 tags: [resume, bio]
 ---
-<embed src="https://drive.google.com/file/d/1zoeLXe_aUI_jJdUTN6lkgYVXH8zS1TPg" width="800px" height="2100px" />
-
+<iframe src='https://1drv.ms/b/s!AtHQDfI17-DmgUTm2i7Y8ptWKU8D&action=embedview' width='379px' height='252px' frameborder='0'>This is an embedded <a target='_blank' href='https://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='https://office.com/webapps'>Office Online</a>.</iframe>
 # Vishal Choudhary
 
 ## contact
