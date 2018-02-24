@@ -22,8 +22,6 @@ tags: [resume, bio]
 
 - National Institute of technology, Hamirpur
 
-- CGPA: 7.92
-
 - B.Tech/M.Tech (Dual Degree) in Computer Science And Engineering
 
 
