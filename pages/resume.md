@@ -162,4 +162,9 @@ A group of active people promoting open-source softwares and Linux• Volunteere
 
 • Conducted a command line workshop
 
-[](https://github.com/vishichoudhary/vishichoudhary.github.io/blob/master/assets/pdfs/final_cv.pdf)
+[link](https://github.com/vishichoudhary/vishichoudhary.github.io/blob/master/assets/pdfs/final_cv.pdf)
+<object data="https://github.com/vishichoudhary/vishichoudhary.github.io/blob/master/assets/pdfs/final_cv.pdf" width="700px" height="700px">
+    <embed src="https://github.com/vishichoudhary/vishichoudhary.github.io/blob/master/assets/pdfs/final_cv.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/vishichoudhary/vishichoudhary.github.io/blob/master/assets/pdfs/final_cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
