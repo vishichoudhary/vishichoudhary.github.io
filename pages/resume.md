@@ -50,11 +50,11 @@ tags: [resume, bio]
 
 ## Links
 
-- Github: vishichoudhary [link](https://gihub.com/vishichoudhary)
+- Github: [vishichoudhary](https://github.com/vishichoudhary)
 
-- Linkedin: vishal choudhary [link](https://www.linkedin.com/in/vishal-choudhary-547a98141/)
+- Linkedin: [vishal choudhary](https://www.linkedin.com/in/vishal-choudhary-547a98141/)
 
-- Codechef: vishichoudhary [link](https://www.codechef.com/users/vishichoudhary)
+- Codechef: [vishichoudhary](https://www.codechef.com/users/vishichoudhary)
 
 ## Extra Curricular
 
@@ -162,4 +162,4 @@ A group of active people promoting open-source softwares and Linux• Volunteere
 
 • Conducted a command line workshop
 
-
+[](https://github.com/vishichoudhary/vishichoudhary.github.io/blob/master/assets/pdfs/final_cv.pdf)
