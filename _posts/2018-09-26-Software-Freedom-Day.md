@@ -11,8 +11,8 @@ The celebration was possible due to the hard work of all the volunteers of GLUG 
 
 We started our preparation for the event 15 days before. There were meetings of the volunteers every week. We planned out about the promotion, sponsors, and schedules of the event. We also planned out who will take which role like installing distros, giving talks and organizing quiz. We made it sure that this event reaches to every student of the college especially the freshmen of our college by putting posters and flex on every corner of our college.
 
-![](https://github.com/vishichoudhary/vishichoudhary.github.io/blob/master/assets/img/content_images/preparation1_SFD.jpeg)
-![](https://github.com/vishichoudhary/vishichoudhary.github.io/blob/master/assets/img/content_images/preparation2_SFD.jpeg)
+![](https://ibb.co/icFwsU)
+![](https://ibb.co/jWk7z9)
 ## Day 1
 ### First half
 
