@@ -1,3 +1,10 @@
+---
+layout: post
+title: Software Freedom day
+feature-img: "assets/img/content_images/day12_SFD.JPG"
+thumbnail: "assets/img/content_images/finalDay_SFD.JPG"
+tags: [SFD]
+---
 # Software freedom day
 ## What is this day?
 
