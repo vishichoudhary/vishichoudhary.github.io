@@ -18,21 +18,17 @@ If (yes) {
         hibernate will kind of shutdown your pc and you have to press power button again to boot into windows. 
         A lazy person never wanna do that, so I have tweaked my hibernation little bit. 
         Here is how you can do the same
-        open ` ``/etc/systemd/sleep.conf.d/hibernatemode.conf`` ` file and
+        open  '/etc/systemd/sleep.conf.d/hibernatemode.conf'  file and
         
         edit *from*
         `
-        ``
         [Sleep]
-        HibernateMode=shutdown
-        ``
+        HibernateMode=shutdown        
         `
         *to*
         `
-        ``
         [Sleep]
         HibernateMode=reboot
-        ``
         `
 }
 else {
