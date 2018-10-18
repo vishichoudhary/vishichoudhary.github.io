@@ -36,6 +36,6 @@ If (yes){
 else {
     Flew from my blog, You don't belong here. 
 }
-{% highlight js %}
+{% endhighlight js %}
 
 Comment down below if you find this helpful, else shoooooooooo..
