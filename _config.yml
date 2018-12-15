@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>One of my most productive days was throwing away 1000 lines of code.
+     <p> How hard it is to be you?
      </p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
