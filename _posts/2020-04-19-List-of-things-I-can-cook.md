@@ -1,4 +1,4 @@
-During this qurantine days, I have started cooking and here are the few things I can cook. :-)
+During these qurantine days, I have started cooking and here are the few things I can cook. :-)
 
 * Pizza ( hell yeah, right from scratch)
 * Garlic bread
@@ -7,4 +7,6 @@ During this qurantine days, I have started cooking and here are the few things I
 * Lemonade
 * Fried Rice
 * French Fries
+* Samosa
+
 
